@@ -9,3 +9,5 @@ how are you
 
 fatih branch degisiklik
 >>>>>>> Fatih
+
+selamlar
