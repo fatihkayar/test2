@@ -2,4 +2,10 @@ Hi there, this is my first github folder.
 
 whats up guys?
 
+<<<<<<< HEAD
 devamke
+=======
+how are you
+
+fatih branch degisiklik
+>>>>>>> Fatih
